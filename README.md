@@ -1,2 +1,2 @@
 # LCDBERINGAS
-Library
+Library LCD 16x2 
